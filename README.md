@@ -28,7 +28,7 @@ const me = {
     },
     Stars: :/,
     FavThings: ["GitHub <3", "repl and vsc", "Just a lappy which has great features."]
-}; //I'm a Object. UwU
+}; //I'm a game addcit
 ```
 <hr>
 <div align="center">
