@@ -1,63 +1,64 @@
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" itemscope itemtype="http://schema.org/Article">
-<head>
-<title>Live View - templatemo 531 reflux</title>
-<meta name="description" content="Live view page for templatemo 531 reflux" />
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link href="/tm-style-new.css" rel="stylesheet" type="text/css" />
-</head>
-<body>
-<!--<div class="wix_live_top">
-   
-<ins class='dcmads' style='display:inline-block;width:728px;height:90px'
-    data-dcm-placement='N34703.1932900TEMPLATEMO.COM/B8599899.117533767'
-    data-dcm-rendering-mode='iframe'
-    data-dcm-https-only
-    data-dcm-resettable-device-id=''
-    data-dcm-app-id=''>
-  <script src='https://www.googletagservices.com/dcm/dcmads.js'></script>
-</ins>  
-
-<a rel="nofollow" href="/external/wix-900x90-live"><img 
-    src="/wix_thumbnails/wix-722x90-live.png" border="0" width="722" height="90" alt="Free Templates" title="Free Templates" /></a>
-       
-    </div>
+<!-- You found this secret 👏 -->
+<!--
+    My secret things lol
     
-    <div class="float_left">
-    	<div class="templatemo_dl_blue">
-        	<a id="tm-download" href="/download/templatemo_531_reflux" rel="nofollow">Download</a>
-        </div>
-	</div>
+    - I code more hours 
+    - I am a gamer too 
+    - I play minecraft, roblox, AMOUNG US ;-;
+    - This readme.md is created using GitHub Codespaces 👀
+-->
     
-    <div class="float_left">
-    	<div class="templatemo_dl_green">
-        	<a id="tm-download" href="/tm-531-reflux">Go Back</a>
-        </div>
-	</div>
-   --> 
-    <div id="live-view">
-        <iframe style="display: block; position: absolute; width: 100%; height: 100%;" width="100%" height="100%" frameborder="0" src="https://templatemo.com/templates/templatemo_531_reflux"></iframe>
-    </div>
+<h1 align="center">Who am I?</h1>
     
-    <iframe id="templatemo.com_970x90_anchor_DFP" frameborder="0" scrolling="no" marginheight="0"
-        marginwidth="0" topmargin="0" leftmargin="0" width="1" height="1"></iframe>
-<script>
-    (function () {
-        var size='970x90|320x100',
-            adunit = 'templatemo.com_970x90_anchor_DFP',
-            xmlhttp = new XMLHttpRequest();xmlhttp.onreadystatechange = function(){if (xmlhttp.readyState == 4 && xmlhttp.status == 200){var iframe = document.getElementById(adunit).contentWindow.document;iframe.open();iframe.write(xmlhttp.responseText);iframe.close();}};xmlhttp.open("GET", 'https://pubads.g.doubleclick.net/gampad/adx?iu=/147246189/'+adunit+'&sz='+encodeURI(size)+'&t=Placement_type%3Dserving&'+Date.now(), true);xmlhttp.send();})();
-</script>
+<div align="center"><img src="https://github.com/SudhanPlayz/SudhanPlayz/raw/master/images/TopBanner.gif"></div>
     
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+## Hello, Im Sudhan <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
 
-  ga('create', 'UA-732601-9', 'auto');
-  ga('send', 'pageview');
-</script>
+```js
+const Sudhan = {
+    Age: 14,
+    Description: "I'm using typescript more these days",
+    FavouriteLanguage: "Javascript/Typescript",
+    OpenedIssues: 12,
+    OpenedPullRequests: 59,
+    TotalCommits: 2697,
+    Repositories: {
+       Created: 49,
+       Contributed: 67
+    },
+    Stars: 237,
+    FavouriteThings: ["GitHub <3", "VS Code", "A Potato PC with 50kbps internet", "Docker", "ParcelJS"]
+}; //I'm a Object. UwU
+```
+<hr>
+<div align="center">
+<h2 align="left">Languages and Tools:</h2>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+</div>
 
-</body>
-</html>
+## How I became a developer?
+Check [How I became a developer by clicking here :)](https://github.com/SudhanPlayz/SudhanPlayz/blob/master/How%20I%20became%20a%20dev.md)
+
+## Stats
+<hr>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula"></div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-124-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-4-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-237-blueviolet)
+
+<!--START_SECTION:waka-->
+```text
+Other        49 hrs 36 mins  ████████████████████░░░░░   79.75 % 
+TypeScript   6 hrs 42 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+JavaScript   2 hrs 36 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+HTML         2 hrs 20 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Brainfuck    20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+```
+<!--END_SECTION:waka-->
+
+<details>
+    <summary><b>GitHub</b> Activity</summary>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
+</details>
+<!-- Last updated on Mon May 03 2021 05:19:56 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 3rd May 2021 using magic</i> ✨
