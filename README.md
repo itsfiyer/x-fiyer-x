@@ -8,11 +8,11 @@
     - This readme.md is created using GitHub Codespaces 👀
 -->
     
-<h1 align="center">Who am I?</h1>
+<h1 align="center">x.Fiyer.x</h1>
     
 <div align="center"><img src="https://github.com/SudhanPlayz/SudhanPlayz/raw/master/images/TopBanner.gif"></div>
     
-## Hello, Im Sudhan <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
+## Hello, Im Sudhan <img src="https://www10.lunapic.com/do-not-link-here-use-hosting-instead/162002894793783142?8626361951" width="30px">
 
 ```js
 const Sudhan = {
