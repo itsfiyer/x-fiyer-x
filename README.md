@@ -5,14 +5,16 @@
 - 📫 coding = life
 - 📫 Join me on discord dsc.gg/divinehub
 
-➵ if (sad) {
-  - sad= true;
-  - beCool
+`//lifemotto
+if (sad) {
+  sad= true;
+  beCool`
 
-➵while(alive) {
-- eat();
-- study();
-- code();
-- sleep();
-- reapeat();
-}
+`//life
+while(alive) {
+eat();
+study();
+code();
+sleep();
+reapeat();
+}`
